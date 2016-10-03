@@ -1,0 +1,9 @@
+Package: constructor
+Version: 1.0.0
+Depends: python, python3, squashfs-tools, mtools, xorriso, libisoburn1, isomd5sum, mktorrent, isolinux, syslinux-common 
+Section: misc
+Priority: optional
+Architecture: amd64
+Installed-Size: 311
+Maintainer: Rui Barreira
+Description: An ISO constructor of Debian based distributions

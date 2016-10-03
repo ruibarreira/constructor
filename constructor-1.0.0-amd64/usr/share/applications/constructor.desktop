@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=ISO Constructor
+Terminal=true
+Name=Constructor
+Exec=constructor
+Type=Application
+Icon=/usr/share/icons/hicolor/scalable/apps/constructor.svg

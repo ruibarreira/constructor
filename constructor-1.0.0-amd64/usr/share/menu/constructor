@@ -1,0 +1,6 @@
+?package(constructor):\
+   needs="X11"\
+   section="Applications/Development"\
+   title="Constructor"\
+   icon="constructor"\
+   command="constructor"
